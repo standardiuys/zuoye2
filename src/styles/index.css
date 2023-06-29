@@ -1,0 +1,18 @@
+@import "~antd/dist/reset.css";
+
+.App {
+  padding: 20px;
+}
+
+
+.flex {
+  display: flex;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
